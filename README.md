@@ -1,0 +1,2 @@
+<img src="https://github.com/tugcenurdaglar/lokasyon_islemleri/blob/master/l1.PNG" width="170px">  <img src="https://github.com/tugcenurdaglar/lokasyon_islemleri/blob/master/Screenshot_1617458766.png" width="270px">
+Android izin kontrolleri kullanıldı ve GPS ile konum bilgisi alındı
